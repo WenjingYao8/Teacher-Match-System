@@ -1,0 +1,32 @@
+Staff:id=3;name=user1;trainingTime=19-20;teachingSkills=[math,english]
+
+Staff:id=4;name=user2;trainingTime=19-20;teachingSkills=[math,computer]
+
+Staff:id=5;name=user3;trainingTime=19-20;teachingSkills=[english,computer]
+
+Staff:id=6;name=user4;trainingTime=20-21;teachingSkills=[math,english]
+
+Staff:id=7;name=user5;trainingTime=20-21;teachingSkills=[math,computer]
+
+Staff:id=8;name=user6;trainingTime=20-21;teachingSkills=[english,computer]
+
+Staff:id=9;name=user7;trainingTime=20-21;teachingSkills=[math,english,computer]
+
+Staff:id=10;name=user8;trainingTime=19-20;teachingSkills=[math]
+
+Staff:id=11;name=user9;trainingTime=20-21;teachingSkills=[english]
+
+Staff:id=12;name=user10;trainingTime=19-20;teachingSkills=[computer]
+
+Staff:id=13;name=user11;trainingTime=19-20;teachingSkills=[math,english,computer]
+
+Staff:id=14;name=user12;trainingTime=20-21;teachingSkills=[math]
+
+Staff:id=15;name=user13;trainingTime=19-20;teachingSkills=[english]
+
+Staff:id=16;name=user14;trainingTime=20-21;teachingSkills=[computer]
+
+PTT:id=13;name=user11;trainingTime=19-20
+Admin:id=1;name=manage
+Class Director:id=2;name=classdir;teachingSkills=[math]
+Training Time:19-20;20-21
